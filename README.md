@@ -1,2 +1,2 @@
 # Snake-game
-A simple game written in Python. Uploaded for testing.
+A simple game written in Python based on Turtle library. Uploaded for testing.
