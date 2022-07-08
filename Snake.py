@@ -2,10 +2,12 @@
 """
 Created on Tue Jan 5 2021
 
-@author: Sam Yang
+@author: UnitedSnakes
 """
 
-import turtle, random, time
+import turtle
+import random
+import time
 
 def create_writer_turtles():
     """To create invisible turtles
